@@ -2,7 +2,7 @@
    <a href="https://picasion.com/gl/fabT/"><img src="https://i.picasion.com/gl/91/fabT.gif" width="771" height="32" border="0" alt="https://picasion.com/gl/fabT/" /></a><br />
 
 
-<img align="right" alt="Rafa-pic" height="400" 
+<img align="right" alt="Rafa-pic" height="350" 
 src="https://renderapi.s3.amazonaws.com/oqGAHXFeg.png" alt="avatar" class="h-full w-full object-center object-cover">></div>
 
 <a href="https://github.com/FernandaMouraQA">
