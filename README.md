@@ -1,4 +1,7 @@
-✌Olá !!!! Me chamo <a href="https://picasion.com/gl/fabB/"><img src="https://i.picasion.com/gl/91/fabB.gif" width="396" height="32" border="0" alt="https://picasion.com/gl/fabB/" /></a><br /><a href="https://picasion.com/gl/fabB/">https://picasion.com/gl/fabB/</a>👩🏻
+
+   <a href="https://picasion.com/gl/fabT/"><img src="https://i.picasion.com/gl/91/fabT.gif" width="771" height="32" border="0" alt="https://picasion.com/gl/fabT/" /></a><br />
+
+
 
 <a href="https://github.com/FernandaMouraQA">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FernandaMoura&show_icons=false&theme=radical&include_all_commits=false&count_private=false"/>
